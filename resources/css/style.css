@@ -1,0 +1,36 @@
+* {font-family: Verdana, sans-serif;
+  background-color: black;
+  text-align:center;
+}
+
+h1 {font-weight: normal;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+h2 {font-weight: 300;
+  color: white;
+  font-size: 42px;
+}
+
+.p1 {color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.p2 {color: gray;
+  font-size: 21px;
+  text-align: center;
+}
+
+#copyright {color: gray;
+text-align: right;
+font-size: 21px;
+}
+
+.video {align-items: center;
+  color: white;
+  text-align:center;
+}
